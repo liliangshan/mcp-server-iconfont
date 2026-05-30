@@ -1,0 +1,30 @@
+{
+  "name": "@liangshanli/mcp-server-iconfont",
+  "version": "1.0.0",
+  "description": "Minimal MCP server: search iconfont.cn by a keyword and return SVG list",
+  "main": "src/server.js",
+  "bin": {
+    "mcp-server-iconfont": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "mcp",
+    "icon",
+    "iconfont",
+    "svg",
+    "model-context-protocol"
+  ],
+  "author": "liliangshan",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "package.json",
+    "README.md"
+  ]
+}

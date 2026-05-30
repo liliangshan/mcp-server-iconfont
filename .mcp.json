@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "iconfont": {
+      "command": "node",
+      "args": ["/Users/lls/wwwroot/liliangshan/github/mcp-server-iconfont/bin/cli.js"]
+    }
+  }
+}
