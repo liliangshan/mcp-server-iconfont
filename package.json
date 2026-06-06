@@ -1,6 +1,6 @@
 {
   "name": "@liangshanli/mcp-server-iconfont",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal MCP server: search iconfont.cn by a keyword and return SVG list",
   "main": "src/server.js",
   "bin": {
@@ -18,6 +18,14 @@
   ],
   "author": "liliangshan",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liliangshan/mcp-server-iconfont.git"
+  },
+  "homepage": "https://github.com/liliangshan/mcp-server-iconfont#readme",
+  "bugs": {
+    "url": "https://github.com/liliangshan/mcp-server-iconfont/issues"
+  },
   "engines": {
     "node": ">=18.0.0"
   },
